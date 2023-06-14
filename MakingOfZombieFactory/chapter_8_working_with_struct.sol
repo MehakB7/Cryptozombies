@@ -1,6 +1,6 @@
 /***
  * 
- * Chapter 7 : What we learn
+ * Chapter 8 : What we learn
  * initializing struct 
  * ex: struct Student{string name, uint age}
  * Student student = Student("Ash", 10); when we declare a student like this inside a function
